@@ -1,4 +1,4 @@
-### Hi there 👋
+### 단국대학교 소프트웨어학과 22학번 박성현입니다.
 
 <!--
 **ParkSeonghyeon2003/ParkSeonghyeon2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
