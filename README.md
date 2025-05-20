@@ -48,6 +48,6 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ParkSeonghyeon2003&theme=kimbie_dark&no-frame=true&no-bg=false&rank=-?" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ParkSeonghyeon2003&theme=kimbie_dark&no-frame=true&no-bg=false&rank=-?&column=7" alt="GitHub Trophies" />
   </a>
 </p>
