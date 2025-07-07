@@ -2,7 +2,7 @@
 
 <h3 align="center">🙋‍♂️ About Me</h3>
 <p align="center">
-  <img height="10" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" /> South Korean<br>
+  🇰🇷 South Korean<br>
   🎓 Dankook University, Department of Software (2022~)
 </p>
 
