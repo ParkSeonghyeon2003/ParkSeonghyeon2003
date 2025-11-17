@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&fontAlignY=40&section=header&text=Hello!%20I'm%20Park%20Seonghyeon.&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&fontAlignY=40&section=header&text=Hello!%20I'm%20Seonghyeon%20Park.&fontSize=50" />
 
 <h3 align="center">🙋‍♂️ About Me</h3>
 <p align="center">
   🇰🇷 South Korean<br>
-  🎓 Dankook University, Department of Software (2022~)
+  🎓 Dankook University, Department of Software (2022~2025)
 </p>
 
 <h3 align="center">💻 Tech & Tools Stack</h3>
@@ -11,12 +11,12 @@
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff" />
   <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
   <br>
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" />
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
