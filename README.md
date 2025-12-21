@@ -55,5 +55,5 @@
   <a href="https://www.discord.com/users/521183431053541379"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
   <a href="https://www.instagram.com/xhyeon___/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="http://qr.kakao.com/talk/YKZl0r8jzbatRwB8deJLYAYs2BI-"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=kakaotalk&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/[본인링크드인ID]"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+  <a href="https://linkedin.com/in/seonghyeon-park-a34848342"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 </p>
