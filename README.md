@@ -4,11 +4,10 @@
 
 > "끊임없이 배우며 성장하는 개발자 박성현입니다."
 
-* 🎓 **학력:** 단국대학교 소프트웨어공학 (2026.02 졸업)
+* 🎓 **학력:** 단국대학교 소프트웨어학 학사 (2026.02)
 * 🔭 **현재:** SIAT 10기 AI 기반 SW 엔지니어 과정 수료 중
-* 🏢 **이력:** KISTI 데이터지능화팀 학생 인턴 (데이터 라벨링 및 전처리)
+* 🏢 **이력:** KISTI 데이터지능화팀 인턴 (데이터 전산화/큐레이션)
 <br><br>
-* 💬 **게임, 개발, 음악**에 대해 이야기 나누는 것을 좋아합니다.
 * ⚡ **MBTI:** INTP / **취미:** 음악 감상, 게임
 
 ---
@@ -32,6 +31,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white"/>
@@ -42,12 +42,10 @@
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat&logo=poetry&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
 </p>
